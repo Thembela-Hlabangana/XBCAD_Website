@@ -1,0 +1,48 @@
+When life gives you lemons, trade them for me; images\\hot\\americano.jpg; 19.00; Caffe Americano; 1
+Do you like coffee? Because I like you a latte; images\\hot\\latte.jpg; 23.50; Caffe Latte; 1
+Just because I'm flat, does not mean I can not make you happy; images\\hot\\flat_white.jpg; 25.50; Flat White; 1
+Better latte than never to order me!; images\\hot\\hazelnut.jpg; 28.50; Hazelnut Latte; 1
+Do you like coffee? Because I like you a latte; images\\hot\\mocha.jpg; 30.00; Caffe Mocha; 1
+Drink me if I''m wrong but, is the earth not flat; images\\hot\\cappuccino.jpg; 21.50; Cappuccino; 1
+Hey, I just met you, and this is crazy, but here's my number,so caramel me maybe?; images\\hot\\caramel_machiato.jpg; 29.50; Caramel Macchiato; 1
+You seem to have a latte on your mind, let me make you feel better; images\\hot\\vanilla_latte.jpg; 31.00; Vanilla Latte; 1
+There's something wrong with my cup - your lips are not on it!; images\\hot\\dirty_chai.jpg; 32.00; Dirty Chai; 1
+Hey, they call me coffee cause I grind so fine; images\\hot\\irish.jpg; 40.00; Irish Coffee(Jameson); 1
+Your lips look lovely, wanna introduce them to my cup; images\\hot\\kuhlua.jpg; 38.00; Kuhlua Latte; 1
+Feeling down? Let me turn you back on; images\\hot\\americano.jpg; 19.00; Caffe Americano; 1
+I might be hot but not as hot as you <3; images\\hot\\expresso.jpg; 17.50; Expresso; 1
+Do you not believe in love at first sip? Try me; images\\hot\\hot_choc.jpg; 28.00; Hot Chocolate; 1
+I really like you, but I am a little chai; images\\hot\\white_choc.jpg; 27.50; White Chocolate; 1
+Hello brew-tea-ful, let us get this par-tea started; images\\hot\\chai_latte.jpg; 28.00; Chai Latte; 1
+I'm going to be soo sal-tea if you don’t order me!; images\\hot\\red_capp.jpg; 30.00; Red Cappuccino; 1
+Let me be your blend with benefits; images\\hot\\rooibos.jpg; 23.00; Pure Wild Rooibos; 1
+If you were a tea, you would be a cu-tea; images\\hot\\english_tea.jpg; 23.00; English Breakfast Blend; 1
+If you were a song, you’d be the best track on the album; images\\hot\\chamomile.jpg; 23.00; Chamomile Flower; 1
+I might be hot but not as hot as you <3; images\\hot\\african.jpg; 23.00; African Sun; 1
+If you were a tea, you’d be a cu-tea; images\\hot\\earl.jpg; 23.00; Earl Grey; 1
+Drink me if I'm wrong but, is the earth not flat?; images\\hot\\strawkiwi.jpg; 23.00; Strawberry & Kiwi; 1
+You and I, we’re mint to be!; images\\hot\\gunpowder.jpg; 23.00; Gunpowder Tea & Mint; 1
+I bet you get asked out on a latte of dates; images\\cold\\coffee_latte.jpg; 28.50; Caffe Latte; 2
+You look fa-brew-lous today!; images\\cold\\caramel.jpg; 35.50; Caramel Machiato; 2
+Life is bitter, let me be your sweetener; images\\cold\\apple_rooibos.jpg; 32.00; Rooibos Tea With Apple Juice; 2
+I would berry much like it if you ordered me; images\\cold\\strawberry_touch.jpg; 32.00; Strawberry Touch; 2
+You are simply the zest!; images\\cold\\lemon_fusion.jpg; 31.00; Lemon Fusion; 2
+You are berry berry pretty; images\\cold\\raspberry.jpg; 34.00; Raspberry Essence; 2
+You hold the kiwi to my heart; images\\cold\\kiwi.jpg; 36.00; Kiwi Buzz; 2
+Come on, order me! You know you want to; images\\cold\\passion_fruit.jpg; 33.00; Passion Fruit Explosion; 2
+You and I are so perfect, want to make a complete circuit; images\\cold\\electric.jpg; 59.00; Electric Sun; 2
+I thought diamonds were beautiful, and then you walked in!; images\\cold\\green_diamond.jpg; 59.00; Green Diamond ;2
+I may be icy but you are worth melting for; images\\cold\\frozen_heart.jpg; 59.00; Frozen Heart ; 2
+Who does not like mangoes!; images\\cold\\mango_groove.jpg; 55.00; Mango Groove; 2
+Is it just the WiFi? Or am I totally feeling a connection?; images\\cold\\coffee_heart.jpg; 49.00; Coffee Love|Sweet Vanilla; 2
+If I could rearrange the alphabet, I would put "U" and "I" together; images\\cold\\caramel_drip.jpg; 53.00; Caramel drip|Chocolate Courage|Peanut Butter Crash; 2
+I am no photographer, but I can definitely picture us together; images\\cold\\red_king.jpg; 57.00; Red King; 2
+Are you a loan? Because you sure have my interest; images\\cold\\oreo_nuke.jpg; 55.00; Oreo Nuke; 2
+If you were a flower, you would be a damnnn-delion; images\\cold\\tropical_surprise.jpg; 46.00; Tropical Surprise; 2
+Order me! Just do it already!; images\\cold\\kiwi_melt.jpg; 49.00; Kiwi Melt; 2
+Was your dad a boxer? Because damn, you are a knockout!; images\\cold\\mixed_berry.jpg; 46.00; Mixed Berry Delight; 2
+We are not socks, but I think we would make a great pair; images\\cold\\mango_bliss.jpg; 41.00; Mango Bliss; 2
+What does the Mandalorian say during pre-workout? This the is whey; images\\cold\\protein.jpg; 43.00; Chocolate|Choc Mint|Vanilla|Strawberry Nutritech Whey Protein Shake; 2
+We are not socks, but I think we would make a great pair; images\\cold\\vegan_protein.jpg; 45.00; Vegan Dutch Cocoa With Soy Milk Nutritech Whey Protein Shake; 2
+Are you a keyboard? Because you are just my type; images\\cold\\jameson.jpg; 57.00; Jameson Dom Pedro; 2
+I need a nickname, how about "Yours"?; images\\cold\\kuhlua.jpg; 54.00; Kuhlua Dom Pedro; 2
